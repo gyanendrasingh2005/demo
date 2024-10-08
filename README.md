@@ -1,2 +1,3 @@
 # demo
-this is my firstgit  repo
+this is my firstgit  repo.
+author-Gyanendra singh 
